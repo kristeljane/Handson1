@@ -1,0 +1,70 @@
+body{
+    background-color:powderblue;
+}
+.wrapper{
+   
+    width:80%;
+    height:600px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px;
+    margin-bottom:0px;
+    
+}
+.logo{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height:70px;
+    background-color:blue;
+    border-top-right-radius: 20px;
+    text-align:center;
+    margin-bottom:10px;
+}
+.nav{
+    height:75px;
+    background-color:white;
+    margin-bottom:10px;
+    text-align:center;
+}
+.cont{
+    width:100%;
+    
+}
+.content{
+    
+    background-color:orange;
+    height:400px;
+    width:50%;
+    float:left;
+}
+.news{
+    
+    background-color:green;
+    height:200px;
+    width:50%;
+    float:right;
+}
+.updates{
+   
+    background-color:yellowgreen;
+    height:200px;
+    width:50%;
+    float:right;
+}
+.trends{
+    
+    background-color:blue;
+    height:200px;
+    width:100%;
+    float:right;
+}
+.footer{
+    margin-top: 10px;
+    background-color:grey;
+    height:75px;
+    float:left;
+    width:100%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align:center;
+}
